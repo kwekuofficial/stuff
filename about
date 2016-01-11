@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="stylesheets.css" />
+<title>About Page</title>
+</head>
+
+<body>
+<div class="container">
+<header>
+<img src="../Web Page/logo.png" />
+  <nav class="top-nav">
+	<ul>
+	  <li>find work</li>
+	  <li>find talent</li>
+	  <li>about</li>
+    <li>resources</li>
+    <li>contact</li>
+</ul>
+</nav>
+</header>
+<div class="main-content">
+<h2>Find, Follow & Fan Us!</h2>
+  <p>We've got some pretty fun stuff happening all over the web. Join us on Facebook, Twitter and 				       LinkedIn for all the latest in events, jobs, contests and more!</p>
+</div>
+<div class="side-content">
+	<nav class="side-nav">
+      <ul>
+    	<li><a href="https://www.thebossgroup.com/About">Overview</a><li>
+        <li>Our Story</li>
+        <br />
+        <li>The Boss Group News</li>
+	 </ul>
+</div>	
+<div class="video-content">
+	<img src="../Web Page/videoframe.png" />
+    
+    <video controls="controls"></video>
+</div>
+<div class="about-content">
+	<h2>About</h2>
+		<p></p>
+</div>
+</div>
+<footer>
+<p>Locations: Metro Atlanta | Metro Baltimore | Metro Chicago | Metro Dallas | Metro DC | Metro NJ | MetroPhiladelphia</p>
+<br />
+<p>Copyright©2014 The BOSS Group. All rights reserved. Copyright/IP Policy</p>
+</footer>
+</body>
+</html>
